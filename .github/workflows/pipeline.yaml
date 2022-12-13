@@ -5,3 +5,4 @@ jobs:
   continue-on-error: false
   snyk: ""
   stackhawk/hawkscan: ""
+  flake8: ""
