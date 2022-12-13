@@ -3,3 +3,5 @@ on: push
 jobs:
   build: ""
   continue-on-error: false
+  snyk: ""
+  stackhawk/hawkscan: ""
